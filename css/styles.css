@@ -301,6 +301,7 @@ background: #FFF;
 }
 #hero-banner h2 b{
 color: #FFFFFF;
+background-color:#FFFFFF;
 }
 #hero-banner p { 
   font-size: 22px; 
@@ -308,14 +309,15 @@ margin-bottom:20px;
 line-height:35px; 
 
   text-align: right;
-  color: #FFF;
+  color: #fff;
 }
 #hero-banner a{
 width: 150px;
 margin: 0;
 display: block;
 background: transparent;
-border: 2px solid #fff;
+border: 2px solid  #24901e;
+background: #24901e;
 float: right;
 }
 #hero-banner a:hover{
@@ -323,8 +325,7 @@ text-align: center;
 width: 150px;
 margin: 0 auto;
 display: block;
-background: #71DE6C;
-border: 2px solid #71DE6C;
+background: rgb(152, 220, 149);
 color: #020202;
 }
 #hero-banner.banner-inner h2 > span {
@@ -963,4 +964,8 @@ margin: 9px auto;
 #portfolio .portfolio-item .portfolio-item-inner .portfolio-info {
 padding: 7px 0 0;
 }
+.btn-important{
+  background-color: #2a95be;
+}
+
 }
