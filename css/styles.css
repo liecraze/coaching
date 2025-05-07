@@ -140,6 +140,8 @@ ul.nostyle i {
 }
 .navbar-toggle{
 border-radius: 0;
+color: white;
+background-color: #3B8838;
 }
 
 .navbar-nav>li>a {
@@ -178,7 +180,7 @@ text-transform: uppercase;
 background: #FFFFFF;
 }
 #main-nav.navbar-default .navbar-nav > li.active > a, #main-nav.navbar-default .navbar-nav > li.open > a, #main-nav.navbar-default .navbar-nav > li:hover > a {
-background: rgb(88, 210, 84);
+background: #3B8838;
 color: #FFFFFF;
 }
 .navbar.navbar-default {
