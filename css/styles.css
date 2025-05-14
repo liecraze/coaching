@@ -88,6 +88,11 @@ span{
   padding: 10px;
 }
 
+.privacy{
+  color: grey;
+  font-weight: lighter;
+}
+
 .btn {
   border-width: 0;
   border-radius: 0;
