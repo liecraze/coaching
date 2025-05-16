@@ -149,6 +149,10 @@ color: white;
 background-color: #3B8838;
 }
 
+.privacy a{
+color: purple;
+}
+
 .navbar-nav>li>a {
 text-transform: uppercase;
 }
